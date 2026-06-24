@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Governing Public Budgets Across Sectors with Permissioned Blockchain: A Multi-Sector Information Systems Framework for Stakeholder-Differentiated Accountability"
+message: "If you use this software or dataset, please cite the associated paper."
+type: software
+authors:
+  - family-names: Nimbo
+    given-names: T.C.
+    affiliation: "Smart Computing, Blockchain and Data Science Laboratory (LAB SCBD), School of Computing, Telkom University, Bandung, Indonesia"
+  - family-names: Alamsyah
+    given-names: A.
+    affiliation: "Smart Computing, Blockchain and Data Science Laboratory (LAB SCBD), School of Computing, Telkom University, Bandung, Indonesia"
+  - family-names: Irawan
+    given-names: H.
+    affiliation: "Smart Computing, Blockchain and Data Science Laboratory (LAB SCBD), School of Computing, Telkom University, Bandung, Indonesia"
+repository-code: "https://github.com/tmothycalvin-cyber/SmartBudgeting-Blockchain"
+license: MIT
+keywords:
+  - permissioned blockchain
+  - smart contract
+  - public financial governance
+  - multi-sector governance
+  - budget transparency
+  - sociotechnical systems
+  - design science research
